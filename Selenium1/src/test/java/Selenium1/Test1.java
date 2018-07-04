@@ -12,6 +12,7 @@ public class Test1 {
      public void testPayment()
      {
 	  System.out.println("in test payment");
+	  System.out.println("Rexy");
      }
     
 }
